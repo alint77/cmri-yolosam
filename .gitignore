@@ -1,1 +1,6 @@
 database/
+cmri_env/
+*.pdf
+sam2_project/data
+*.pt
+runs/
